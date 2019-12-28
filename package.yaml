@@ -15,6 +15,7 @@ description:         Please see the README on GitHub at <https://github.com/rabb
 dependencies:
 - base >= 4.7 && < 5
 - text
+- aeson
 
 library:
   source-dirs: src
