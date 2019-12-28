@@ -12,6 +12,9 @@ extra-source-files:
 
 description:         Please see the README on GitHub at <https://github.com/rabbitonweb/bp-servant-polysemy-todo-ap>
 
+default-extensions:
+- DeriveGeneric
+
 dependencies:
 - base >= 4.7 && < 5
 - text
